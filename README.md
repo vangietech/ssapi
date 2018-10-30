@@ -11,8 +11,8 @@ ssapi使用文档
 ********
 
 ## 下载源码
-git clone https://github.com/1912294464/ssapi.git 或者 <br>
-git clone git://github.com/1912294464/ssapi.git
+git clone https://github.com/vangietech/ssapi.git 或者 <br>
+git clone git://github.com/vangietech/ssapi.git
 
 ## 启动程序：
 ```
