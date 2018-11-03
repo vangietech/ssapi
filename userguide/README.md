@@ -2,10 +2,10 @@
 ===
 
 ## 使用前必读 <br>
-关注我们的公众号（回复“获取密钥”）可以获取试用账号（试用期一个月）： <br>
+关注我们的公众号，可以获取试用账号（试用期一个月）： <br>
 1. 扫描关注公众号 <br>
 ![](./images/gongzhonghao_QR_code.png)
-2. 按如下步骤操作注册账号 <br>
+2. 按如下步骤注册账号 <br>
 ![](./images/gongzhonghao_userguide.png)
 
 
