@@ -4,17 +4,17 @@
 ## 使用前必读 <br>
 关注我们的公众号，可以获取试用账号（试用期一个月）： <br>
 1. 扫描关注公众号 <br>
-![](./images/gongzhonghao_QR_code.png)
+![](./images/gongzhonghao_QR_code.png) <br>
 2. 按如下步骤注册账号 <br>
 ![](./images/gongzhonghao_userguide.png)
 
 
 ## 客户端下载 <br>
-[win 10客户端下载](http://ss.vangietech.com/userguid/download/windows/Shadowsocks.exe) <br>
-[win 7客户端推荐下载](http://ss.vangietech.com/userguid/download/windows/Shadowsocks-3.0.zip) <br>
+[win 10客户端下载](http://ss.vangietech.com/userguide/download/windows/Shadowsocks.exe) <br>
+[win 7客户端推荐下载](http://ss.vangietech.com/userguide/download/windows/Shadowsocks-3.0.zip) <br>
 [windows 其他更多版本](https://github.com/shadowsocks/shadowsocks-windows/releases)  注：如客户端在您的电脑上无法运行，请尝试更换其他版本客户端，win 7推荐3.0及以上但不要超出4.0，win 10推荐4.0及以上 <br>
-[android apk客户端下载](http://ss.vangietech.com/userguid/download/android/shadowsocks.apk) <br>
-[MacOSX客户端下载](http://ss.vangietech.com/userguid/download/mac/ShadowsocksX-2.6.3.dmg) <br>
+[android apk客户端下载](http://ss.vangietech.com/userguide/download/android/shadowsocks.apk) <br>
+[MacOSX客户端下载](http://ss.vangietech.com/userguide/download/mac/ShadowsocksX-2.6.3.dmg) <br>
 
 ## Windows 客户端使用方法： <br>
 ![](./images/winSetup.png) <br>
