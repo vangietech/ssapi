@@ -21,7 +21,7 @@ def ss_user(request, user_id=None):
         port = get_port()
         password = create_passwd()
         ss.add_user(port, password)
-        user_info = {'userIp': '35.200.100.180', 'userPort': port, 'userPassword': password}
+        user_info = {'userIp': '35.220.167.125', 'userPort': port, 'userPassword': password}
         return HttpResponse(json.dumps(user_info))
     if request.method == 'DELETE':
         users = list_users()
